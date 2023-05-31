@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0de921c9.css",
+    "main.js": "/static/js/main.d94fe282.js",
+    "static/css/890.ee2e513d.chunk.css": "/static/css/890.ee2e513d.chunk.css",
+    "static/js/890.c1473c6b.chunk.js": "/static/js/890.c1473c6b.chunk.js",
+    "static/media/bg.jpg": "/static/media/bg.29b25be31315dad3ce4e.jpg",
+    "static/media/falcon.jpg": "/static/media/falcon.c1d0a8d1869b3fbdb9ab.jpg",
+    "static/media/9ddb2699-8143-4236-8ded-13a335095815.jpg": "/static/media/9ddb2699-8143-4236-8ded-13a335095815.b08c147b3a40c96785fa.jpg",
+    "static/media/dark-side.jpg": "/static/media/dark-side.e0f8cab78e4bdd7db45d.jpg",
+    "static/media/light-side.jpg": "/static/media/light-side.eebc52171cd4ac0278ca.jpg",
+    "static/media/lightsaber.svg": "/static/media/lightsaber.eb7d4cd665426117002814db79fceef4.svg",
+    "static/media/space-station.svg": "/static/media/space-station.7a027c6ec10ba7b5d8c880df5f4e65ea.svg",
+    "static/media/droid.svg": "/static/media/droid.de165dd887badb2bdbe9d97b8e527c6f.svg",
+    "static/media/Spinner-2.4s-197px.svg": "/static/media/Spinner-2.4s-197px.2fc50c91264276315869bcf94fc59676.svg",
+    "index.html": "/index.html",
+    "static/media/han-solo.mp4": "/static/media/han-solo.31d6cfe0d16ae931b73c.mp4",
+    "main.0de921c9.css.map": "/static/css/main.0de921c9.css.map",
+    "main.d94fe282.js.map": "/static/js/main.d94fe282.js.map",
+    "890.ee2e513d.chunk.css.map": "/static/css/890.ee2e513d.chunk.css.map",
+    "890.c1473c6b.chunk.js.map": "/static/js/890.c1473c6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0de921c9.css",
+    "static/js/main.d94fe282.js"
+  ]
+}
